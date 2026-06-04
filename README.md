@@ -7,6 +7,7 @@ A comprehensive learning repository for **Data Mining**, **Machine Learning**, *
 ### Core Modules
 
 - **`classification/`** - Classification algorithms and techniques
+  - `Advance_data_mining_naive_bayes.ipynb` - Naive Bayes classifier implementation and analysis
 - **`ETL/`** - Extract, Transform, Load processes and data pipeline implementations
 - **`MongoDB/`** - NoSQL database operations and data management
 - **`sql/`** - SQL queries, database design, and relational data handling
@@ -16,8 +17,8 @@ A comprehensive learning repository for **Data Mining**, **Machine Learning**, *
 
 ### Documentation & Resources
 
-- **`Advance_data_mining_naive_bayes.ipynb`** - Naive Bayes classifier implementation and analysis
 - **`Advance_data_mining_practice_code.ipynb`** - Practical exercises in advanced data mining
+- **`docs/`** - Additional documentation and learning guides
 
 ## 🎯 Learning Focus Areas
 
@@ -51,7 +52,7 @@ A comprehensive learning repository for **Data Mining**, **Machine Learning**, *
 
 ## 💡 Key Topics Covered
 
-- **Naive Bayes Classification**
+- **Naive Bayes Classification** (see `classification/Advance_data_mining_naive_bayes.ipynb`)
 - **ETL Pipeline Design**
 - **NoSQL Database Management (MongoDB)**
 - **Database Queries (SQL)**
