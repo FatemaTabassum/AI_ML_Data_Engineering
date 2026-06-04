@@ -16,7 +16,6 @@ A comprehensive learning repository for **Data Mining**, **Machine Learning**, *
 
 ### Documentation & Resources
 
-- **`docs/`** - Documentation files and guides
 - **`Advance_data_mining_naive_bayes.ipynb`** - Naive Bayes classifier implementation and analysis
 - **`Advance_data_mining_practice_code.ipynb`** - Practical exercises in advanced data mining
 
