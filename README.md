@@ -36,10 +36,8 @@ A comprehensive learning repository for **Data Mining**, **Machine Learning**, *
    cd AI_ML_Data_Engineering
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install necessary dependencies:
+  
 
 3. Explore the notebooks and code examples in each directory
 
